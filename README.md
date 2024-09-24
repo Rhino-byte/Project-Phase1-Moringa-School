@@ -1,5 +1,6 @@
 # Aviation Data Project
 ![alt text](image-1.png)
+
 As company expands into the aviation industry, it'w worth understanding how to operate airplanes for both commercial and private purposes. However, before making any purchasing decisions, it’s critical to understand the safety risks associated with different aircraft models. My role in this project is to analyze historical aviation accident data and determine which aircraft are the safest, ensuring that the company makes informed, data-driven decisions that minimize risk and enhance operational safety.
 
 ## Objective 
