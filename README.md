@@ -1,5 +1,5 @@
 # Aviation Accidents in USA 
-![alt text](image/image-1.png)
+![Picture of a plane accident](image/image-1.png)
 
 As company expands into the aviation industry, it'w worth understanding how to operate airplanes for both commercial and private purposes. However, before making any purchasing decisions, it’s critical to understand the safety risks associated with different aircraft models. My role in this project is to analyze historical aviation accident data and determine which aircraft are the safest, ensuring that the company makes informed, data-driven decisions that minimize risk and enhance operational safety.
 
@@ -44,25 +44,25 @@ The dataset contains **90,348 records** with **31 columns**, covering various as
 
 This comprehensive dataset enables a detailed examination of accident rates, causes, and trends, particularly regarding the number of engines and injury outcomes. By using a line plot we can observe the trend of the aviation accidents from the year 1980 -2023
 
-![alt text](image-2.png)
+![alt text](image/image-2.png)
 
 > Based on the data it's evident that there is a downward trend in the accident cases this could probably be brought about by the incoperating new technologies and better measures to help reduce the accidents cases.
 
 Understanding the column for *Purpose of flight* (e.g., personal, business, instructional). Is a crucial step for this analysis as it will help differentiate between aircraft used for private versus commercial purposes for the interest of purchasing and operating airplanes for commercial and private enterprises.
 
-![alt text](image-3.png)
+![alt text](image/image-3.png)
 
 > The data on Investigation Type highlights that the Cessna 152 model is associated with the highest number of incidents or investigations (2,083), followed by the Cessna 172 (1,494) and Cessna 172N (930). Piper models like the PA-28-140 (775) and 150 (731) also feature prominently. These findings suggest that these models, especially popular training aircraft like the Cessna 152 and 172, are frequently involved in incidents, possibly due to their widespread use in flight schools and for personal aviation.
 
 The column *Broad phase of flight* will help identify during which flight phase (e.g., takeoff, cruise, landing) accidents tend to occur for different aircraft. This could reveal models that are safer in particular phases, which is valuable when considering usage patterns.
 
-![alt text](image.png)
+![alt text](image/image.png)
 
 > Landing and takeoff are the most accident-prone phases, with 11,444 and 9,754 accidents/incidents, highlighting the complexity and risks involved in these critical moments. Cruise (7,987) and maneuvering (6,341) phases also see significant accidents/incidents due to mechanical issues or sharp turns. Approach (4,955) poses risks during landing preparations. While climb, taxi, and descent have fewer accidents/incidents, they still present risks from engine failures or misjudgments. Go-around and standing accidents/incidents show additional concerns.
 
 *Weather Conditions* greatly impact aviation industries in this scenario we will investigate the various weather conditions and try to seek insights in relation to the model of the plane.
 
-![alt text](image-4.png)
+![alt text](image/image-4.png)
 
 The Weather.Condition column contains (VMC—Visual Meteorological Conditions, IMC—Instrument Meteorological Conditions and Unknown). By compairing the different model planes  can reveal which aircraft perform better under certain weather conditions.
 
@@ -70,13 +70,13 @@ The Weather.Condition column contains (VMC—Visual Meteorological Conditions, I
 
 * Aircraft like the PA-28-181, 172N, and A36 have higher accident rates in IMC, with 73, 69, and 66 incidents, respectively. These conditions involve poor visibility, making navigation challenging. For operations frequently conducted in low-visibility or adverse weather, these models may require extra caution.
 
-![alt text](image-5.png)
+![alt text](image/image-5.png)
 
 **VMC (Visual Meteorological Conditions):**
 
 * Aircraft such as the 152, 172, and 172N have significantly more accidents in VMC, with 2,011, 1,410, and 848 incidents, respectively. Since VMC accidents occur in good visibility, they may indicate human error or mechanical issues during simpler conditions.
 
-![alt text](image-6.png)
+![alt text](image/image-6.png)
 
 ## Conclusion and Recommendation
 
