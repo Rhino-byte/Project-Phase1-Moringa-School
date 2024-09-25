@@ -44,6 +44,13 @@ The dataset contains **90,348 records** with **31 columns**, covering various as
 
 This comprehensive dataset enables a detailed examination of accident rates, causes, and trends, particularly regarding the number of engines and injury outcomes. By using a line plot we can observe the trend of the aviation accidents from the year 1980 -2023
 
+**Data Cleaning:** 
+For the NTSB data there were presence of missing data dropping the columns with missing values gretaer than 25% of the data. 
+
+**Duplicates**
+Duplicates identified in the data were dropped
+
+
 ![alt text](image/image-2.png)
 
 > Based on the data it's evident that there is a downward trend in the accident cases this could probably be brought about by the incoperating new technologies and better measures to help reduce the accidents cases.
