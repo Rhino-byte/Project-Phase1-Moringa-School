@@ -45,9 +45,11 @@ The dataset contains **90,348 records** with **31 columns**, covering various as
 This comprehensive dataset enables a detailed examination of accident rates, causes, and trends, particularly regarding the number of engines and injury outcomes. By using a line plot we can observe the trend of the aviation accidents from the year 1980 -2023
 
 **Data Cleaning:** 
+
 For the NTSB data there were presence of missing data dropping the columns with missing values gretaer than 25% of the data. 
 
-**Duplicates**
+**Duplicates:**
+
 Duplicates identified in the data were dropped
 
 
@@ -91,6 +93,7 @@ The Weather.Condition column contains (VMC—Visual Meteorological Conditions, I
 
 ## References 
 - For more on Tableu visualization: [Click here 👇🏿](https://public.tableau.com/app/profile/savins.nanyaemuny/viz/TableauVisualization_17272562742990/AviationAccidentsinUSA?publish=yes)
+  
 - To get the slides presentation: [Presentation.pdf](https://docs.google.com/presentation/d/121gDxZbpcjQ0nqUKOxuj4oZEx2F5zNaD6WmBBTxx4IU/edit#slide=id.p)
 
 
