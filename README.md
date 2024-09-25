@@ -89,8 +89,10 @@ The Weather.Condition column contains (VMC—Visual Meteorological Conditions, I
 
 > In conclusion, prioritizing safety in aviation operations, particularly for personal and instructional flights, requires a multifaceted approach that scrutinizes commonly used aircraft models and ensures they are well-maintained and equipped with advanced safety technologies. Implementing comprehensive pilot training, especially in instrument flight for models like the PA-28-181, 172N, and A36, is essential to enhance situational awareness and reduce reliance on visual cues. Additionally, selecting aircraft with strong safety records and enforcing stricter maintenance schedules will significantly mitigate risks associated with varied pilot experience levels and environmental conditions. We can create a safer aviation environment for both pilots and passengers through these measures.
 
-## Refrences 
-For More Tableu visualization: [Click here 👇🏿](https://public.tableau.com/app/profile/savins.nanyaemuny/viz/TableauVisualization_17272562742990/AviationAccidentsinUSA?publish=yes)
+## References 
+- For more on Tableu visualization: [Click here 👇🏿](https://public.tableau.com/app/profile/savins.nanyaemuny/viz/TableauVisualization_17272562742990/AviationAccidentsinUSA?publish=yes)
+- To get the slides presentation: [Presentation.pdf](https://docs.google.com/presentation/d/121gDxZbpcjQ0nqUKOxuj4oZEx2F5zNaD6WmBBTxx4IU/edit#slide=id.p)
+
 
 
 
