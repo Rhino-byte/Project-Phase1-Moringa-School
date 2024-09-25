@@ -84,7 +84,7 @@ The Weather.Condition column contains (VMC—Visual Meteorological Conditions, I
 
 ## References 
 - For more on Tableu visualization: [Click here 👇🏿](https://public.tableau.com/app/profile/savins.nanyaemuny/viz/TableauVisualization_17272562742990/AviationAccidentsinUSA?publish=yes)
-- To get the slides presentation: [Presentation.pdf](https://docs.google.com/presentation/d/121gDxZbpcjQ0nqUKOxuj4oZEx2F5zNaD6WmBBTxx4IU/edit#slide=id.g3057675071f_0_268)
+- To get the slides presentation: [Presentation.pdf](https://docs.google.com/presentation/d/121gDxZbpcjQ0nqUKOxuj4oZEx2F5zNaD6WmBBTxx4IU/edit#slide=id.p)
 
 
 
