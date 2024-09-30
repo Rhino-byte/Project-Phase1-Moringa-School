@@ -23,7 +23,7 @@ The primary goal of this project is to use data from the NTSB (National Transpor
 ## Data Understanding and Analysis
 
 ### Source of Data:
-The data comes from the **National Transportation Safety Board (NTSB)**, which records aviation accidents and incidents across various aircraft models. The dataset includes information on accidents by flight phase, weather conditions, and the purpose of the flight. This rich dataset helps identify patterns and trends related to aviation safety, providing crucial insights for risk assessment in different types of aircraft operations.
+The data comes from the **National Transportation Safety Board (NTSB)**, which records [aviation accidents](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses/data) and incidents across various aircraft models. The dataset includes information on accidents by flight phase, weather conditions, and the purpose of the flight. This rich dataset helps identify patterns and trends related to aviation safety, providing crucial insights for risk assessment in different types of aircraft operations.
 
 ### Description of Data:
 The dataset contains **90,348 records** with **31 columns**, covering various aspects of aviation accidents, including:
